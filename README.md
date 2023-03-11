@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have over 9 years of experience as a computer engineer, and have worked at startups working as freelancer (Upwork) and currently working 🔭 at The Coop Technology as Software Engineer. While I'm a proficient full-stack developer, my expertise is in building scalable backend services (API services, architecture, and async mechanisms).
+I have over 10 years of experience as a computer engineer, and have worked at startups working as freelancer (Upwork) and currently working 🔭 at The Coop Technology as Software Engineer. While I'm a proficient full-stack developer, my expertise is in building scalable backend services (API services, architecture, and async mechanisms).
 <!--
 **srebella/srebella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
